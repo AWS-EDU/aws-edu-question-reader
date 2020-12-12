@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# OSX
+.DS_Store
+
+# Project
+exams/*.jpg
+notebooks/*.jpg
+.ipynb_checkpoints
